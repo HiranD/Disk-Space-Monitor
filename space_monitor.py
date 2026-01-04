@@ -30,7 +30,7 @@ CONFIG_PATH = Path(__file__).parent / "config.json"
 # Default configuration
 DEFAULT_CONFIG = {
     "drives": ["C:"],
-    "threshold_gb": 50,
+    "threshold_gb": 10,
     "check_interval_minutes": 5,
     "alert_methods": {
         "discord": True,

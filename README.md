@@ -47,7 +47,7 @@ Settings are stored in `config.json` (auto-created on first run):
 | Setting | Description | Default |
 |---------|-------------|---------|
 | `drives` | List of drives to monitor | `["C:"]` |
-| `threshold_gb` | Alert when free space falls below this (GB) | `50` |
+| `threshold_gb` | Alert when free space falls below this (GB) | `10` |
 | `check_interval_minutes` | How often to check disk space | `5` |
 | `alert_methods.discord` | Enable Discord webhook alerts | `true` |
 | `alert_methods.onscreen` | Enable on-screen popup alerts | `true` |
