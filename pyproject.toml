@@ -13,3 +13,8 @@ dependencies = [
 
 [project.scripts]
 disk-space-monitor = "space_monitor:main"
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.17.0",
+]
