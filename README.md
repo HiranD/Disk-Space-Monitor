@@ -62,6 +62,11 @@ Settings are stored in `config.json` (auto-created on first run):
 
 ## Screenshots
 
+### Settings Window
+Configure drives to monitor, thresholds, and alert methods.
+
+![Settings Window](images/settings-window.jpg)
+
 ### System Tray
 Hover over the tray icon to see current disk status.
 
